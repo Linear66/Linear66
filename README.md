@@ -386,14 +386,9 @@
       </td>
   </tr>
   <tr>
-    <th colspan="2"><a href="/source/templates/community/README.md">📕 See also community templates</a></th>
-  </tr>
-  <tr>
     <th colspan="2"><h2>🦑 Try it now!</h2></th>
   </tr>
   <tr>
-    <th><a href="https://metrics.lecoq.io/embed">📊 Metrics embed</a></th>
-    <th><a href="https://metrics.lecoq.io/insights">✨ Metrics insights</a></th>
   </tr>
   <tr>
     <td align="center">

@@ -8,6 +8,9 @@
   <tr>
     <th colspan="2" align="center">
       <h3><a href="/README.md#-plugins">Linear66</a></h3>
+      ## Linear66 - 21.08.2012
+
+Clique [aqui](https://www.youtube.com/watch?v=G4EpfvWXUlY) Dedicado a todos os curiosos.
     </th>
   </tr>
   <tr>

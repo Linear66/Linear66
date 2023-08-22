@@ -23,8 +23,8 @@
         <td  align="center">
    <details open><summary>Análise detalhada (clonar e analisar repositórios)</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.indepth.svg" alt=""></img></details>
       <details open><summary>Usado recentemente (analisar eventos de atividade recente)</summary><img alt="" width="400"src="https://media.discordapp.net/attachments/1131355743933694042/1143367421349089351/3090fc4f858e4f5cd0dfc42226a86161.jpg" alt=""></img></details>
-      <details><summary>Algoritmo padrão</summary><img alt="" width="400" src="https://media.discordapp.net/attachments/1131355743933694042/1143367421349089351/3090fc4f858e4f5cd0dfc42226a86161.jpg" alt=""></img></details>
-      <details><summary>Algoritmo padrão (com detalhes)</summary><img alt="" width="400" src="https://media.discordapp.net/attachments/1131355743933694042/1143367421349089351/3090fc4f858e4f5cd0dfc42226a86161.jpg" alt=""></img></details>
+      <details><summary>Algoritmo padrão</summary><img alt="" width="400" src="https://media.discordapp.net/attachments/1131355743933694042/1143369112656027761/a3ecaea7ea136a8314298430c32a2e17.jpg" alt=""></img></details>
+      <details><summary>Algoritmo padrão (com detalhes)</summary><img alt="" width="400" src="https://media.discordapp.net/attachments/1131355743933694042/1143369142221676544/7e69cbd9615fdf3e438a6992a3f8fe9c.jpg" alt=""></img></details>
         <img width="900" height="1" alt="">
       </td>
   </tr>

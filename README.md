@@ -22,9 +22,9 @@
       </td>
         <td  align="center">
    <details open><summary>Análise detalhada (clonar e analisar repositórios)</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.indepth.svg" alt=""></img></details>
-      <details open><summary>Usado recentemente (analisar eventos de atividade recente)</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.recent.svg" alt=""></img></details>
-      <details><summary>Algoritmo padrão</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.svg" alt=""></img></details>
-      <details><summary>Algoritmo padrão (com detalhes)</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.details.svg" alt=""></img></details>
+      <details open><summary>Usado recentemente (analisar eventos de atividade recente)</summary><img alt="" width="400"src="https://media.discordapp.net/attachments/1131355743933694042/1143367421349089351/3090fc4f858e4f5cd0dfc42226a86161.jpg" alt=""></img></details>
+      <details><summary>Algoritmo padrão</summary><img alt="" width="400" src="https://media.discordapp.net/attachments/1131355743933694042/1143367421349089351/3090fc4f858e4f5cd0dfc42226a86161.jpg" alt=""></img></details>
+      <details><summary>Algoritmo padrão (com detalhes)</summary><img alt="" width="400" src="https://media.discordapp.net/attachments/1131355743933694042/1143367421349089351/3090fc4f858e4f5cd0dfc42226a86161.jpg" alt=""></img></details>
         <img width="900" height="1" alt="">
       </td>
   </tr>

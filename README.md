@@ -10,7 +10,7 @@
       <h3><a href="/README.md#-plugins">Linear66</a></h3>
       ## Linear66 - 21.08.2012
 
-Clique [aqui](https://www.youtube.com/watch?v=G4EpfvWXUlY) Dedicado a todos os curiosos.
+Clique [aqui](https://www.youtube.com/watch?v=prxUpduuB7A) Daface?.
     </th>
   </tr>
   <tr>

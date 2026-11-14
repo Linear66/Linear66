@@ -12,6 +12,9 @@
 
 Clique [aqui](https://www.youtube.com/watch?v=HI6gMkfRjE0) Daface?.
     </th>
+    <img alt="" width="400" src="<img alt="" width="400" src="https://media.discordapp.net/attachments/1131355743933694042/1143369142221676544/7e69cbd9615fdf3e438a6992a3f8fe9c.jpg" alt=""></img></details>
+        <img width="900" height="1" alt="">" alt=""></img></details>
+        <img width="900" height="1" alt="">
   </tr>
   <tr>
     <th><a href="source/plugins/isocalendar/README.md">📅 Isometric commit calendar</a></th>

@@ -7,6 +7,8 @@
       <a href="https://www.youtube.com/watch?v=HI6gMkfRjE0">Clique aqui</a> — Daface?
       <br><br>
       <img alt="" width="400" src="https://i.pinimg.com/1200x/14/e9/91/14e9911bde6af7c6dd7dbf1ddf2dfe4b.jpg"></img>
+      <br><br>
+      <img alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></img>
     </th>
   </tr>
   <tr>
